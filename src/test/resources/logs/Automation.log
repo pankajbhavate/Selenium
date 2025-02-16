@@ -1,0 +1,89 @@
+2025-02-08 11:45:30,613 - automation fra -INFO - open browser
+2025-02-08 11:54:34,339 - automation fra -INFO - open browser
+2025-02-08 11:54:48,840 - automation fra -INFO - open browser
+2025-02-08 11:55:32,702 - automation fra -INFO - open browser
+2025-02-08 11:59:03,935 - automation fra -INFO - open browser
+2025-02-08 12:02:22,034 - automation fra -INFO - open browser
+2025-02-08 12:02:22,042 - automation fra -INFO - ptint he my name is pankaj
+2025-02-08 12:13:23,948 - automation fra -INFO - open browser
+2025-02-08 12:13:23,957 - automation fra -INFO - ptint he my name is pankaj
+2025-02-08 12:14:07,711 - automation fra -INFO - open browser
+2025-02-08 12:14:07,739 - automation fra -INFO - ptint he my name is pankaj
+2025-02-08 12:34:45,999 - automation fra -INFO - open browser
+2025-02-08 12:34:46,006 - automation fra -INFO - ptint he my name is pankaj
+2025-02-08 14:58:48,096 - start case -INFO - ss
+2025-02-08 15:02:44,821 - start case -INFO - start the fetching test data from the web page and read the data
+2025-02-08 15:02:44,859 - start case -INFO - initalize the row
+2025-02-08 15:02:44,859 - start case -INFO - initalize the col
+2025-02-08 15:02:44,891 - start case -INFO - initalize the col
+2025-02-08 15:02:44,917 - start case -INFO - initalize the col
+2025-02-08 15:02:44,940 - start case -INFO - initalize the col
+2025-02-08 15:02:44,964 - start case -INFO - initalize the col
+2025-02-08 15:02:44,990 - start case -INFO - initalize the col
+2025-02-08 15:02:45,014 - start case -INFO - initalize the row
+2025-02-08 15:02:45,014 - start case -INFO - initalize the col
+2025-02-08 15:02:45,042 - start case -INFO - initalize the col
+2025-02-08 15:02:45,067 - start case -INFO - initalize the col
+2025-02-08 15:02:45,091 - start case -INFO - initalize the col
+2025-02-08 15:02:45,116 - start case -INFO - initalize the col
+2025-02-08 15:02:45,140 - start case -INFO - initalize the col
+2025-02-08 15:02:45,163 - start case -INFO - initalize the row
+2025-02-08 15:02:45,164 - start case -INFO - initalize the col
+2025-02-08 15:02:45,191 - start case -INFO - initalize the col
+2025-02-08 15:02:45,213 - start case -INFO - initalize the col
+2025-02-08 15:02:45,236 - start case -INFO - initalize the col
+2025-02-08 15:02:45,259 - start case -INFO - initalize the col
+2025-02-08 15:02:45,285 - start case -INFO - initalize the col
+2025-02-08 15:02:45,311 - start case -INFO - initalize the row
+2025-02-08 15:02:45,311 - start case -INFO - initalize the col
+2025-02-08 15:02:45,337 - start case -INFO - initalize the col
+2025-02-08 15:02:45,360 - start case -INFO - initalize the col
+2025-02-08 15:02:45,384 - start case -INFO - initalize the col
+2025-02-08 15:02:45,407 - start case -INFO - initalize the col
+2025-02-08 15:02:45,431 - start case -INFO - initalize the col
+2025-02-08 15:02:45,456 - start case -INFO - initalize the row
+2025-02-08 15:02:45,456 - start case -INFO - initalize the col
+2025-02-08 15:02:45,481 - start case -INFO - initalize the col
+2025-02-08 15:02:45,504 - start case -INFO - initalize the col
+2025-02-08 15:02:45,526 - start case -INFO - initalize the col
+2025-02-08 15:02:45,550 - start case -INFO - initalize the col
+2025-02-08 15:02:45,574 - start case -INFO - initalize the col
+2025-02-08 15:02:45,599 - start case -INFO - initalize the row
+2025-02-08 15:02:45,599 - start case -INFO - initalize the col
+2025-02-08 15:02:45,624 - start case -INFO - initalize the col
+2025-02-08 15:02:45,646 - start case -INFO - initalize the col
+2025-02-08 15:02:45,673 - start case -INFO - initalize the col
+2025-02-08 15:02:45,698 - start case -INFO - initalize the col
+2025-02-08 15:02:45,724 - start case -INFO - initalize the col
+2025-02-08 15:02:45,749 - start case -INFO - initalize the row
+2025-02-08 15:02:45,749 - start case -INFO - initalize the col
+2025-02-08 15:02:45,774 - start case -INFO - initalize the col
+2025-02-08 15:02:45,795 - start case -INFO - initalize the col
+2025-02-08 15:02:45,819 - start case -INFO - initalize the col
+2025-02-08 15:02:45,843 - start case -INFO - initalize the col
+2025-02-08 15:02:45,868 - start case -INFO - initalize the col
+2025-02-08 15:02:45,892 - start case -INFO - initalize the row
+2025-02-08 15:02:45,892 - start case -INFO - initalize the col
+2025-02-08 15:02:45,921 - start case -INFO - initalize the col
+2025-02-08 15:02:45,947 - start case -INFO - initalize the col
+2025-02-08 15:02:45,970 - start case -INFO - initalize the col
+2025-02-08 15:02:45,993 - start case -INFO - initalize the col
+2025-02-08 15:02:46,020 - start case -INFO - initalize the col
+2025-02-08 15:02:46,052 - start case -INFO - initalize the row
+2025-02-08 15:02:46,052 - start case -INFO - initalize the col
+2025-02-08 15:02:46,079 - start case -INFO - initalize the col
+2025-02-08 15:02:46,105 - start case -INFO - initalize the col
+2025-02-08 15:02:46,127 - start case -INFO - initalize the col
+2025-02-08 15:02:46,154 - start case -INFO - initalize the col
+2025-02-08 15:02:46,177 - start case -INFO - initalize the col
+2025-02-08 15:02:46,202 - start case -INFO - initalize the row
+2025-02-08 15:02:46,202 - start case -INFO - initalize the col
+2025-02-08 15:02:46,225 - start case -INFO - initalize the col
+2025-02-08 15:02:46,248 - start case -INFO - initalize the col
+2025-02-08 15:02:46,274 - start case -INFO - initalize the col
+2025-02-08 15:02:46,298 - start case -INFO - initalize the col
+2025-02-08 15:02:46,320 - start case -INFO - initalize the col
+2025-02-14 08:50:04,914 - automation fra -INFO - open browser
+2025-02-14 08:50:04,920 - automation fra -INFO - ptint he my name is pankaj
+2025-02-14 08:54:36,566 - automation fra -INFO - open browser
+2025-02-14 08:54:36,571 - automation fra -INFO - ptint he my name is pankaj
