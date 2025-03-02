@@ -17,19 +17,12 @@ public class Alert {
 		// TODO Auto-generated method stub
 		WebDriverManager.chromedriver().setup();
 		WebDriver driver = new ChromeDriver();
-		driver.get("https://the-internet.herokuapp.com/javascript_alerts");
+		driver.get("https://testpages.herokuapp.com/styled/alerts/alert-test.html");
 		driver.manage().window().maximize();
-//		driver.findElement(By.xpath("//button[text()=\"Click for JS Alert\"]")).click();
-//     org.openqa.selenium.Alert  al =   driver.switchTo().alert();
-//        al.accept();
-        driver.findElement(By.xpath("//button[text()=\"Click for JS Prompt\"]")).click();
-     org.openqa.selenium.Alert  a =  driver.switchTo().alert();
-     Select s  = new Select(null);
-     
-     Thread.sleep(2000);
-          a.dismiss();
-         
-          
+		driver.findElement(By.id("alertexamples")).click();
+     org.openqa.selenium.Alert  al =   driver.switchTo().alert();
+        al.accept();
+       
           
         
         

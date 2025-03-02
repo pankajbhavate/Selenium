@@ -11,7 +11,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class JavascriptExecutor {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) throws InterruptedException {
 		// TODO Auto-generated method stub
 		
 		
@@ -24,11 +24,20 @@ public class JavascriptExecutor {
 	       WebElement r =           driver.findElement(By.cssSelector("[value=\"sign up\"]"));
 	 org.openqa.selenium.JavascriptExecutor js = (org.openqa.selenium.JavascriptExecutor)driver;
 		 js.executeScript("arguments[0].value='"+"pankaj"+"';", w);
+		 Thread.sleep(2000);
 		 js.executeScript("arguments[0].value='"+"bhavate"+"';", e);
-		e.clear();
-		 
 	
-				
+	WebElement wd =	 driver.findElement(By.cssSelector("[class=\"link facebook\"]"));
+	    WebElement d=              driver.findElement(By.xpath("//h2[text()=\"Register\"]"));
+		js.executeScript("arguments[0].scrollIntoView()",wd); //scrolldown
+		Thread.sleep(2000);
+		js.executeScript("arguments[0].scrollIntoView()",d); //scrollUp
+		Thread.sleep(2000);
+		js.executeScript("arguments[0].scrollIntoView()",wd); //scrolldown
+		Thread.sleep(2000);
+		js.executeScript("arguments[0].scrollIntoView()",d); //scrollUp
+		
+		
 
 	}
 

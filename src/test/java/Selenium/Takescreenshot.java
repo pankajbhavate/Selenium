@@ -26,6 +26,8 @@ public class Takescreenshot {
  
          File f =  ((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
          File  dest = new File("C:\\Users\\DELL\\Pictures\\Saved Pictures\\"+m+".jpg");
+         String s ="C:\\Users\\DELL\\Pictures\\Saved Picture";
+     
         		 FileUtils.copyFile(f, dest);
          
          

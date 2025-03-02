@@ -11,7 +11,8 @@ public class loggers {
 		PropertyConfigurator.configure("C:\\Users\\DELL\\eclipse-workspace\\Selenium1\\src\\test\\resources\\Config\\log4j.properties");
 		logger.info("open browser");
 		System.out.println("pankaj");
-		logger.info("ptint he my name is pankaj");
+		logger.info("print he my name is pankaj");
+		logger.info("im waiting long time to you and you are reached now");
 	}
 	
 
