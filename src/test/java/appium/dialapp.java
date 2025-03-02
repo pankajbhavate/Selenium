@@ -28,7 +28,7 @@ public class dialapp {
       
       AndroidDriver a =  new AndroidDriver(u, options);
      
-       a.findElement(By.id("com.google.android.dialer:id/dialpad_fab")).click()
+       a.findElement(By.id("com.google.android.dialer:id/dialpad_fab")).click();
        a.findElement(By.id("com.google.android.dialer:id/three")).click();
        a.findElement(By.xpath("//android.widget.TextView[@resource-id=\"com.google.android.dialer:id/dialpad_key_number\" and @text=\"7\"]")).click();
        a.findElement(By.id("com.google.android.dialer:id/eight")).click();
